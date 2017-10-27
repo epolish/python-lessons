@@ -1,4 +1,4 @@
 # python-lessons
 
-* [Задачник:](https://pythonworld.ru/osnovy/tasks.html)
-* [Самоучитель:](https://pythonworld.ru/samouchitel-python)
+* <a href="https://pythonworld.ru/osnovy/tasks.html" target="_blank">Задачник</a>
+* <a href="https://pythonworld.ru/samouchitel-python" target="_blank">Самоучитель</a>
