@@ -2,6 +2,7 @@ from request import check_password
 
 '''
 Установка: Скачать все 3 файлика (app.py, passwords.txt, request.py) в одну папку все вместе.
+Писать программу в этом файле (app.py).
 
 Задача: методом полного перебора (brute force)
 подобрать пароль к странице на сайте http://python-lessons.zzz.com.ua
